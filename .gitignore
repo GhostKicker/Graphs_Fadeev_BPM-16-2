@@ -1,0 +1,10 @@
+
+.vs/Graphs_Fadeev/v15/.suo
+*.ipch
+*.filters
+*.sln
+Graphs_Fadeev/
+*.vcxproj
+*.opendb
+kruskal/.vs/kruskal/v15/.suo
+*.db
