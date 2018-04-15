@@ -8,3 +8,13 @@ Graphs_Fadeev/
 *.opendb
 kruskal/.vs/kruskal/v15/.suo
 *.db
+*.exe
+*.ilk
+*.log
+*.tlog
+*.pdb
+heap/output.txt
+heap/input.txt
+*.idb
+*.obj
+heap/.vs/heap/v15/.suo
