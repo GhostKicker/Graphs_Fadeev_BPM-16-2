@@ -9,7 +9,7 @@ const int inf = 1e9 + 7;
 int n;
 
 
-vector<tuple<int, short, short> > edges; //w, i, j
+vector<tuple<int, int, int> > edges; //w, i, j
 vector<int> l;
 vector<int> h;
 
