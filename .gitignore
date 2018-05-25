@@ -18,3 +18,4 @@ heap/input.txt
 *.idb
 *.obj
 heap/.vs/heap/v15/.suo
+*.txt
